@@ -10,3 +10,6 @@ console.log(multiply(2,2));
 
 const divide = (a,b) => a/b;
 console.log(divide(10,2));
+
+const mathSin = (Number) => Math.sin(Number);
+console.log(mathSin(10));
